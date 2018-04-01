@@ -1,0 +1,25 @@
+https://www.udemy.com/learn-java-by-building-projects/learn/v4/t/lecture/1709864?start=150
+
+The original Resources from the Course are in the folder "Resources_From_Course"
+
+We are going to use MySQL
+download: https://dev.mysql.com/downloads/connector/j/
+1- save it in: C:\Users\USER\Documents\MyApp\Java
+2- Drop it in the source folder (.bin), right click on it and click on "Build Path" >> "Add to Build Path"
+
+Classes:
+
+Main : The main class. Contain the JFrame. Glue every thing together.
+Database: Display records and executes queries.
+Connector: Connect to the database.
+ConnectDialog: Get the user info. Connector will use this info.
+
+free mysql database for testing:
+
+host: den1.mysql3.gear.host
+username: employees1
+passowrd: Jo6U~gzh104!
+database: employees1
+
+
+
